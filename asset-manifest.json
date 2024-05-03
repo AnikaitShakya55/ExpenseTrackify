@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExpenseTrackify/static/css/main.53aa8d82.css",
+    "main.js": "/ExpenseTrackify/static/js/main.ecffe472.js",
+    "index.html": "/ExpenseTrackify/index.html",
+    "main.53aa8d82.css.map": "/ExpenseTrackify/static/css/main.53aa8d82.css.map",
+    "main.ecffe472.js.map": "/ExpenseTrackify/static/js/main.ecffe472.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53aa8d82.css",
+    "static/js/main.ecffe472.js"
+  ]
+}
